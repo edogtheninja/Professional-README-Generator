@@ -1,5 +1,3 @@
-# Professional-README-Generator
- 
  # Professional README generator
 
 ## **This application was created to generate a professional README for a new project.**
