@@ -25,4 +25,4 @@ node index.js
 
 ### **Preview**
 
-<!-- 💡 Walkthrough video: []() -->
+💡 Walkthrough video: [https://drive.google.com/file/d/1xaOYrRo23Yv5QTkpts0jX1yAg3CIqRfF/view](https://drive.google.com/file/d/1xaOYrRo23Yv5QTkpts0jX1yAg3CIqRfF/view)
